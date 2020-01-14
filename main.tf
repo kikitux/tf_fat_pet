@@ -1,6 +1,6 @@
 variable mypets {
   description = "How many pets"
-  default     = 60
+  default     = 160
 }
 
 resource "random_pet" "pet_quote_1" {
